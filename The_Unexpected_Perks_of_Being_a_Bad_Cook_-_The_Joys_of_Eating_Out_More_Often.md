@@ -9,7 +9,7 @@
 
 ## Introduction: A Confession of Culinary Incompetence
 
-Let's be honest, folks: not everyone is blessed with the culinary prowess of a Michelin-starred chef. Some of us, myself included, are simply better suited to ordering takeout than whipping up gourmet masterpieces.  I'm not talking about a mere inability to execute a soufflé perfectly or a slight over-seasoning of the pasta sauce. No, I'm talking about a level of culinary incompetence that would make even the most seasoned food critic recoil in horror.
+Let's be honest, folks: not everyone is blessed with the culinary prowess of a Michelin-starred chef. Some of us, myself included, are simply better suited to ordering takeout than whipping up gourmet masterpieces.  I'm not talking about a mere inability to execute a soufflÃ© perfectly or a slight over-seasoning of the pasta sauce. No, I'm talking about a level of culinary incompetence that would make even the most seasoned food critic recoil in horror.
 
 My kitchen is a battlefield of burnt offerings and culinary casualties. The sight of a perfectly ripe avocado in my possession is enough to send chills down the spines of my friends and family, for they know what follows: a pathetic attempt at guacamole that ends up resembling a brown, lumpy paste. My attempts at baking are legendary, though not for the reasons you might think. My cakes are often dense and dry, resembling more a brick than a dessert. And let's not even get started on the time I tried to make pizza from scratch and ended up with a doughy monstrosity that wouldn't have been out of place in a medieval siege. 
 
@@ -55,7 +55,7 @@ By choosing to eat out more often, the bad cook frees themselves from this inter
 
 Of course, there's a practical side to this newfound freedom. By embracing a more restaurant-centric lifestyle, the bad cook can often enjoy higher quality ingredients and more varied dishes than they could realistically prepare at home. Think of the artisanal bread, the locally sourced produce, the hand-crafted cocktails - these are culinary experiences that are simply out of reach for the average home cook.
 
-And let's not forget the social aspect.  Eating out provides opportunities to connect with others in a casual and relaxed environment.  It's a chance to enjoy the atmosphere of a bustling restaurant, to experience the warmth of a cozy café, to share laughter and stories over a delicious meal. 
+And let's not forget the social aspect.  Eating out provides opportunities to connect with others in a casual and relaxed environment.  It's a chance to enjoy the atmosphere of a bustling restaurant, to experience the warmth of a cozy cafÃ©, to share laughter and stories over a delicious meal. 
 
 Ultimately, the joy of eating out more often lies not just in the convenience and the quality of the food, but in the liberation it offers. It's a chance to let go of the pressure to cook, to embrace the spontaneity of life, and to savor the joy of dining out as a true culinary adventure.  For the bad cook, it's a reminder that food is not just about sustenance, but also about experience, connection, and the simple pleasure of enjoying a good meal.
 
@@ -147,7 +147,7 @@ Here's the beauty of it:
 
 * **Supporting Local Businesses:** Every time you choose to eat out, you're supporting local businesses and contributing to the vibrant fabric of your community. You're empowering passionate chefs and restaurateurs to pursue their culinary dreams, fostering a thriving food scene that benefits everyone. You're not just enjoying a meal; you're participating in a local ecosystem, enriching the lives of those around you.
 
-* **Learning and Expanding Your Palate:**  Beyond the enjoyment, eating out becomes an opportunity to expand your culinary horizons. You get to witness the artistry of skilled chefs, learn about different cooking techniques and ingredients, and discover flavors you never knew existed. This newfound knowledge can inspire you in the kitchen, even if you're not quite ready to master the art of soufflé-making.
+* **Learning and Expanding Your Palate:**  Beyond the enjoyment, eating out becomes an opportunity to expand your culinary horizons. You get to witness the artistry of skilled chefs, learn about different cooking techniques and ingredients, and discover flavors you never knew existed. This newfound knowledge can inspire you in the kitchen, even if you're not quite ready to master the art of soufflÃ©-making.
 
 * **Stress-Free Dining:**  No more chopping vegetables, battling burnt pans, or dealing with the pressure of creating a perfect meal. Eating out allows you to relax, unwind, and simply enjoy the experience without the stress of cooking. It's a welcome escape from the kitchen, a chance to focus on the pleasure of good company and delicious food. 
 

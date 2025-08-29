@@ -102,7 +102,7 @@ One of the key benefits of daydreaming is its ability to foster "loose associati
 
 * **Albert Einstein** famously attributed his breakthrough theories to daydreaming, often imagining himself riding a beam of light. This mental experiment, free from the constraints of traditional physics, helped him to develop his revolutionary theories of relativity.
 * **Archimedes** is said to have discovered the principle of buoyancy while taking a bath. His mind, relaxed and free from immediate concerns, was able to make the connection between the rising water level and the displacement of his body.
-* **Kekulé's dream of a snake biting its tail** led to his understanding of the structure of the benzene molecule, a groundbreaking discovery in chemistry. This vivid image allowed him to visualize the cyclic structure of the molecule, a solution that had previously eluded him.
+* **KekulÃ©'s dream of a snake biting its tail** led to his understanding of the structure of the benzene molecule, a groundbreaking discovery in chemistry. This vivid image allowed him to visualize the cyclic structure of the molecule, a solution that had previously eluded him.
 
 **How to Harness the Power of Daydreaming for Problem-Solving:**
 
