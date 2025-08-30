@@ -4,10 +4,8 @@ title: "The Neuroscience Nostalgia Why We Crave Past - Nostalgia And Social Conn
 date: 2024-06-10 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about brain science and psychology"
+excerpt: "Uncover how nostalgia serves as a powerful tool for social bonding, helping us connect with others, strengthen relationships, and build community through shared memories."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

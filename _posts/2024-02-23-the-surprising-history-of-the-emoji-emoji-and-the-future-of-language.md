@@ -4,10 +4,8 @@ title: "The Surprising History of the Emoji - Emoji And The Future Of Language"
 date: 2024-02-23 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about digital communication and culture"
+excerpt: "Explore how emoji are reshaping the future of language, from their humble beginnings in 1990s Japan to becoming a universal form of digital expression that transcends cultural boundaries."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

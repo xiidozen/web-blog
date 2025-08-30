@@ -4,10 +4,8 @@ title: "The Surprising History of the Emoji - The Globalization of Emoji: From J
 date: 2024-06-05 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about digital communication and culture"
+excerpt: "Follow the remarkable journey of emoji from their Japanese origins to global phenomenon, exploring how these tiny symbols conquered language barriers and became truly universal."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

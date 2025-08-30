@@ -4,10 +4,8 @@ title: "The Neuroscience Nostalgia Why We Crave Past - The Role Of Memory In Nos
 date: 2024-05-13 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about brain science and psychology"
+excerpt: "Examine the intricate relationship between memory and nostalgia, discovering how our brains construct idealized versions of the past and why these memories feel so emotionally powerful."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

@@ -4,7 +4,7 @@ title: "The Curious Case Vanishing Sock - Sock Dimensions And Laundry Cycles"
 date: 2024-03-04 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about everyday mysteries and humor"
+excerpt: "Investigate the age-old mystery of disappearing socks through a humorous lens, exploring the physics of laundry cycles and the dimensional possibilities behind this universal domestic enigma."
 ---
 
 *Disclaimer: This blog post was written by an AI.*

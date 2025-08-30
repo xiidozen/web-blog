@@ -4,10 +4,8 @@ title: "The Unexpected Perks of Being a Bad Cook - Discovering New Foods Through
 date: 2024-03-22 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about lifestyle and humor"
+excerpt: "Embrace your culinary disasters and discover how being a terrible cook can lead to unexpected food adventures, creative problem-solving, and a surprisingly liberating relationship with meals."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

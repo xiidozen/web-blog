@@ -4,10 +4,8 @@ title: "The Neuroscience Nostalgia Why We Crave Past - Neural Correlates Of Nost
 date: 2024-02-28 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about brain science and psychology"
+excerpt: "Discover the fascinating neural mechanisms behind nostalgia - how our brains create those bittersweet memories and why we're evolutionarily wired to crave the past."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

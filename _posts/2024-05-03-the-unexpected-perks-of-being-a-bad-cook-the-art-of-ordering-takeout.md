@@ -4,10 +4,8 @@ title: "The Unexpected Perks of Being a Bad Cook - The Art of Ordering Takeout"
 date: 2024-05-03 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about lifestyle and humor"
+excerpt: "Master the sophisticated art of ordering takeout, discovering how culinary incompetence can lead to expertise in delivery apps, food exploration, and the zen of not cooking."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 

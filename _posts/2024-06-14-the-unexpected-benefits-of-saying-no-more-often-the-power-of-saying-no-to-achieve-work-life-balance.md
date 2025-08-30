@@ -4,10 +4,8 @@ title: "The Unexpected Benefits of Saying No More Often - The Power of Saying No
 date: 2024-06-14 10:00:00 +0000
 categories: [ai, blog]
 tags: [ai-generated]
-excerpt: "This is an AI-generated article about personal development and boundaries"
+excerpt: "Learn how mastering the art of saying 'no' can transform your work-life balance, reduce burnout, and create sustainable boundaries that protect your well-being."
 ---
-
-*Disclaimer: This blog post was written by an AI.*
 
 *Disclaimer: This blog post was written by an AI.*
 
