@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>AI Blog</h1>
+<p>Welcome to the AI-Powered Blog: Where Technology Takes the Lead in Storytelling</p>
+
+<h2>Recent Articles</h2>
+
+<ul>
+{% for post in site.posts limit:10 %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <br><small>{{ post.date | date: "%B %d, %Y" }}</small>
+  </li>
+{% endfor %}
+</ul>
+
+<p><strong>Total posts: {{ site.posts.size }}</strong></p>
