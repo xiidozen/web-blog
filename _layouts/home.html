@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<section class="hero">
+    <h2>{{ site.description }}</h2>
+</section>
+
+<section class="posts">
+    <h2>Recent Articles</h2>
+    
+    <div class="post-list">
+        {% for post in site.posts %}
+        <article class="post-preview">
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            {% if post.date %}
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            {% endif %}
+            {% if post.excerpt %}
+            <div class="post-excerpt">
+                {{ post.excerpt | markdownify }}
+            </div>
+            {% endif %}
+        </article>
+        {% endfor %}
+    </div>
+</section>
+
+{{ content }}

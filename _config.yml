@@ -1,3 +1,49 @@
-theme: jekyll-theme-minimal
-title: AI-Powered Blog
-description: Where Technology Takes the Lead in Storytelling - AI-generated articles on diverse topics from productivity to psychology.
+# Site settings
+title: AI Blog
+description: A collection of AI-generated articles on various topics
+url: "https://xiidozen.github.io"
+baseurl: "/web-blog"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "AI"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - node_modules/
+  - "*.py"
+  - "*.json"
+
+# Theme toggle settings
+theme_toggle:
+  enabled: true
+  default_theme: auto
