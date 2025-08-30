@@ -15,11 +15,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:title/
 
 # Defaults
 defaults:
