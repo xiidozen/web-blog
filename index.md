@@ -19,21 +19,23 @@ title: "AI Blog"
 </section>
 
 <section class="posts">
-    <h2>Recent Articles</h2>
+    <h2>Recent Articles ({{ site.posts.size }} posts found)</h2>
     
     <div class="post-list">
-        {% for post in site.posts %}
+        {% for post in site.posts limit:10 %}
         <article class="post-preview">
             <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-            {% if post.date %}
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
-            {% endif %}
-            {% if post.excerpt %}
-            <div class="post-excerpt">
-                {{ post.excerpt | markdownify }}
-            </div>
-            {% endif %}
+            <time>{{ post.date | date: "%B %d, %Y" }}</time>
+            <p>{{ post.excerpt }}</p>
         </article>
         {% endfor %}
+        
+        {% if site.posts.size == 0 %}
+        <p>No posts found. Debug info:</p>
+        <ul>
+            <li>Posts directory exists: {% if site.posts %}Yes{% else %}No{% endif %}</li>
+            <li>Site collections: {{ site.collections | map: 'label' | join: ', ' }}</li>
+        </ul>
+        {% endif %}
     </div>
 </section>
