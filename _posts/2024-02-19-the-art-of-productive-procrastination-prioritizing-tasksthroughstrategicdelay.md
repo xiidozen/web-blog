@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Master the strategic art of task prioritization through intentional delay, transforming procrastination from a weakness into a powerful productivity tool."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Paradox of Procrastination
 

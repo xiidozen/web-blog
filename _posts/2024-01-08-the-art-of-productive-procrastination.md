@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Learn how strategic procrastination can boost creativity, improve decision-making, and lead to better outcomes when used intentionally."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## What is Productive Procrastination?
 

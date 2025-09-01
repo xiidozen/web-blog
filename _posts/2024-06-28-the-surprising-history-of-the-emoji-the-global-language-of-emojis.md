@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Trace the fascinating evolution of emojis from Japanese mobile icons to a universal digital language transforming global communication."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: A World of Tiny Pictures
 

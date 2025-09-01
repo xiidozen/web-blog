@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Discover how reconnecting with natural rhythms can transform your sleep quality and mental wellbeing through proven strategies for restoring your body's innate circadian wisdom."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Disconnected Mind
 

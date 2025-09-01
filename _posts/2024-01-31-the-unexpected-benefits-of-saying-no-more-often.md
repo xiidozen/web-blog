@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Discover how saying no more often can improve your mental health, boost productivity, and strengthen relationships while helping you reclaim control of your time and energy."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Art of Saying No and Reclaiming Your Time
 

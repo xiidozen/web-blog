@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Explore the fascinating neuroscience behind nostalgia, why our brains crave the past, and how nostalgic memories shape our identity and well-being."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Allure of Yesterday
 

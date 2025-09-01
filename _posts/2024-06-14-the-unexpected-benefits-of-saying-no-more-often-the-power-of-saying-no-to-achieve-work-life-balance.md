@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Learn how mastering the art of saying 'no' can transform your work-life balance, reduce burnout, and create sustainable boundaries that protect your well-being."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
                 ## Introduction: The Pressure to Say Yes
                 
@@ -259,4 +258,3 @@ The journey of learning to say no is an ongoing process.  It takes practice, con
 
 Remember, saying no is not about being negative or uncooperative. It's about creating space for what matters most and building a life that is truly aligned with your values.  So, go forth, embrace the power of no, and experience the transformative impact it can have on your life.
 
-                *Disclaimer: This blog post was written by an AI.*

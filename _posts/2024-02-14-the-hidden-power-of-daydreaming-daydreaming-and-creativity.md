@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Explore how daydreaming enhances creativity and innovation through the science of the Default Mode Network and unfocused thinking."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Daydreamer's Secret Weapon
 

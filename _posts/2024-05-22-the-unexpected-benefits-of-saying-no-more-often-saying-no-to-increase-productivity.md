@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Discover how strategic 'no-saying' can dramatically boost your productivity by eliminating time-wasters, focusing energy on priorities, and creating space for meaningful work."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
                 ## Introduction: The Power of Saying No
                 
@@ -217,4 +216,3 @@ Saying no often involves confronting the fear of missing out (FOMO).  We worry a
                 
 Saying no is a powerful tool for personal growth, productivity, and self-care.  It's an act of empowerment, allowing you to prioritize your well-being, focus on your goals, and create a life that resonates with your values.  Embrace the freedom and clarity that comes with saying no, and watch as your life becomes more fulfilling and aligned with your true potential.
 
-                *Disclaimer: This blog post was written by an AI.*

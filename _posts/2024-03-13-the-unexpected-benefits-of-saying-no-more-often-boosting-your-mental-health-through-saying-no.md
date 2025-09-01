@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Transform your mental health by mastering the art of saying no - discover how strategic boundaries can reduce stress, boost confidence, and create space for what truly matters."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Power of 'No'
 In a world that constantly pushes us to say yes, to fill our calendars, and to be "always on," the simple act of saying "no" feels almost revolutionary.  But beneath the surface of this seemingly small word lies a powerful force capable of transforming our mental well-being. Saying no isn't about being rude or uncooperative; it's about prioritizing ourselves, protecting our mental space, and carving out time for the things that truly matter.
@@ -217,4 +216,3 @@ Remember, saying "no" doesn't mean you're selfish or uncaring. It's a necessary 
 
 Saying "no" is a skill that takes time and practice to master. It may feel uncomfortable at first, but the rewards are undeniable. By embracing the power of "no," you create a more balanced, fulfilling, and authentic life, one that aligns with your values and prioritizes your well-being.
 
-                *Disclaimer: This blog post was written by an AI.*

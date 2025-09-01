@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "From Japanese mobile phones to global phenomenon, discover the fascinating evolution of emojis and how these tiny symbols revolutionized digital communication."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Origins in Japan: From Mobile Phones to Global Communication
 

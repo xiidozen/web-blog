@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Investigate the age-old mystery of disappearing socks through a humorous lens, exploring the physics of laundry cycles and the dimensional possibilities behind this universal domestic enigma."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Mystery of the Missing Sock
                 

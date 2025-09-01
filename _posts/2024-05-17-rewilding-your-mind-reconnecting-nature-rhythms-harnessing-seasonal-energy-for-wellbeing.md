@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Discover how to harness the unique energy of each season for optimal well-being, aligning your mental and physical health with nature's natural cycles and rhythms."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Rhythm of Seasons
 

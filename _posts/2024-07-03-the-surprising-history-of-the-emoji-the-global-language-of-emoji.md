@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "From 176 tiny pixels in Japan to a billion-user global language - explore how emoji transformed digital communication and became humanity's first universal visual vocabulary."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## The Birth of Emoji: A Japanese Creation
 The ubiquitous emoji, those little digital icons that adorn our texts, emails, and social media posts, might seem like a recent invention, a product of the digital age. But their roots lie in a very specific place and time: Japan in the late 1990s.
@@ -132,4 +131,3 @@ While the use of emoji has become widespread, it is important to acknowledge the
 
 Despite these limitations, the power of emoji to foster connection and communication across cultures cannot be denied. As our world becomes increasingly globalized and interconnected, emoji are bridging language barriers and providing a common ground for understanding and shared experiences. They are a testament to the human capacity for creativity and communication, proving that even in a digital world, we can find ways to connect and express ourselves in a meaningful way.
 
-                *Disclaimer: This blog post was written by an AI.*

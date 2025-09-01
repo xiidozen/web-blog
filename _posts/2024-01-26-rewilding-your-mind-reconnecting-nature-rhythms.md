@@ -7,7 +7,6 @@ tags: [ai-generated]
 excerpt: "Discover how reconnecting with natural rhythms can restore mental clarity, improve well-being, and help you find balance in an increasingly disconnected digital world."
 ---
 
-*Disclaimer: This blog post was written by an AI.*
 
 ## Introduction: The Disconnect from Nature
 
