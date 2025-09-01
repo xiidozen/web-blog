@@ -19,10 +19,10 @@ title: "AI Blog"
 </section>
 
 <section class="posts">
-    <h2>Recent Articles ({{ site.posts.size }} posts found)</h2>
+    <h2>All Articles ({{ site.posts.size }} posts found)</h2>
     
     <div class="post-list">
-        {% for post in site.posts limit:10 %}
+        {% for post in site.posts %}
         <article class="post-preview">
             <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
             <time>{{ post.date | date: "%B %d, %Y" }}</time>
